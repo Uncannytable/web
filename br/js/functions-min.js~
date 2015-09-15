@@ -1,0 +1,12 @@
+Event.observe(window,"load",loadAccordions,false);
+function loadAccordions(){
+	var a=new accordion("slider_container",{
+		classNames:{
+			toggle:"slider_toggle",
+			toggleActive:"slider_toggle_active",
+			content:"slider_content"
+		},
+		defaultSize:{width:700},
+		direction:"horizontal"
+		});
+a.activate($$("#slider_container .slider_toggle")[0])};

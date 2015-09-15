@@ -1,0 +1,85 @@
+/*ATRIBUTOS GERAIS*/
+*, html, body {
+	margin: 0 0 0 0;
+	padding: 0 0 0 0;
+}
+
+html {
+	height: 100%;
+}
+
+body{
+	background: #E1F8FF;
+	font-family: Trebuchet MS,Arial,Sans-Serif;
+	color:#000000;
+	font-size:13px;
+	line-height:1.66em;
+	height: 100%;
+}
+
+#top {
+	background: #000000;
+	height:20px;
+	padding:5px;
+	border-bottom: 2px solid #ffffff;
+}
+
+#main_container {
+	margin: 0 auto 0 auto;
+	width: 700px;
+	overflow:auto;	
+}
+
+#header_container {
+	overflow:auto;
+	padding:10px;
+}
+
+#header_photo {
+	float:left;
+	border: 3px solid #000000;
+	margin: 10px;
+}
+
+#header_info {
+	margin: 10px;
+}
+
+#body_container {
+	overflow:auto;
+}
+
+#footer_container {
+	overflow:auto;
+}
+
+/*Classes ligadas ao accordion*/
+.slider_toggle {
+	display: block;
+	height: 30px;
+	background: url(img/accordion_toggle.jpg) no-repeat top right #83B0BF;
+	padding: 0 10px 0 10px;
+	line-height: 30px;
+	color: #ffffff;
+	font-weight: bold;
+	text-decoration: none;
+	outline: none;
+	font-size: 14px;
+	color: #000000;
+	border-bottom: 1px solid #ffffff;
+	cursor: pointer;
+	margin: 0 0 0 0;
+}
+.slider_toggle_active {
+	background: url(img/accordion_toggle_active.jpg) no-repeat top right #2F4146;
+	color: #ffffff;
+	border-bottom: 1px solid #ffffff;
+}
+.slider_content {	
+	background-color: #ffffff;
+	color: #444444;
+	overflow: hidden;
+}
+.slider_content_wrapper {
+	padding:15px 5px 15px 5px;
+}
