@@ -3,8 +3,8 @@
 
 <head>
 	<meta http-equiv="content-type" content="text/html; charset=UTF-8" />
-	<meta name="keywords" content="Personal Webpage, Vitor" /> 
-	<meta name="description" content="Vitor Mendes Paisante's personal webpage" /> 
+	<meta name="keywords" content="Página Pessoal, Vitor" /> 
+	<meta name="description" content="Página pessoal de Vitor Mendes Paisante" /> 
 
 	<link type="text/css" rel="stylesheet" media="all" href="css/main.css" />
 
@@ -37,38 +37,38 @@
 			<div id="header_info">
 				<h1>Vitor Mendes Paisante</h1>
 				<br>
-				<p>Computer Science Bachelor</p>
-				<p>Computer Science Graduate Student</p>
+				<p>Baicharel em Ciência da Computação</p>
+				<p>Mestrando em Ciência da Computação</p>
 			</div>
 		</div>
 		<div id="body_container">
 			<div id="slider_container">
 				<!--=============================-->
-				<h1 class="slider_toggle">Summary</h1>
+				<h1 class="slider_toggle">Resumo</h1>
 				<div class="slider_content"> 
 					<div class="slider_content_wrapper">
 					</div>	
 				</div>
 				<!--=============================-->
-				<h1 class="slider_toggle">Education</h1>
+				<h1 class="slider_toggle">Educação</h1>
 				<div class="slider_content"> 
 					<div class="slider_content_wrapper">
 					</div>	
 				</div>
 				<!--=============================-->
-				<h1 class="slider_toggle">Experience</h1>
+				<h1 class="slider_toggle">Experiência</h1>
 				<div class="slider_content"> 
 					<div class="slider_content_wrapper">
 					</div>	
 				</div>
 				<!--=============================-->
-				<h1 class="slider_toggle">Projects and Interests</h1>
+				<h1 class="slider_toggle">Projetos e Interesses</h1>
 				<div class="slider_content"> 
 					<div class="slider_content_wrapper">
 					</div>	
 				</div>
 				<!--=============================-->
-				<h1 class="slider_toggle">Social Networks</h1>
+				<h1 class="slider_toggle">Redes Sociais</h1>
 				<div class="slider_content"> 
 					<div class="slider_content_wrapper">
 					</div>	

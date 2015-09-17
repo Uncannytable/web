@@ -42,6 +42,7 @@ body{
 }
 
 #header_info {
+	padding-top: 10px;
 	margin: 10px;
 }
 
@@ -51,6 +52,29 @@ body{
 
 #footer_container {
 	overflow:auto;
+}
+
+#insides {
+	width: 80%;
+	margin: auto;
+}
+#timespent {
+	float:right;
+	width:20%;
+}
+
+#socialtable {
+	border-collapse:separate; 
+	border-spacing: 10px;
+}
+
+.raligned {
+	float: right;
+}
+
+.caligned {
+	margin: auto;
+	align: center;
 }
 
 /*Classes ligadas ao accordion*/
@@ -82,4 +106,10 @@ body{
 }
 .slider_content_wrapper {
 	padding:15px 5px 15px 5px;
+}
+
+ol {
+	list-style-type: decimal;
+	padding: 0;
+	list-style-position: inside;
 }
